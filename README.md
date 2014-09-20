@@ -7,7 +7,7 @@ I have tested this on Ubuntu 14.04.
 
 ![](http://www.imageupload.co.uk/images/2014/09/20/netspeed-indicator.png)
 
-A .deb file is available.
+A .deb file is available [here](deploy/netspeed-indicator_1.0_amd64.deb)
 I'll be very happy if you download it,use it, check the python code and extend it.
 
 Cheers!
