@@ -25,8 +25,6 @@ Cheers!
 
 
 
-##Changelog:
-
+##Changelog
 1.0.1 - [Fix](issues/2), git issue #2, Dirty fix to the nethogs code, skips the device/interface if it is like 'mon.*'. (Now nethogs works with ap-hotspot running.)
--------------------
 1.0 - First release
