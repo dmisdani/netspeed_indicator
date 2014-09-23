@@ -8,7 +8,7 @@ I have tested this on Ubuntu 14.04.
 ![](http://www.imageupload.co.uk/images/2014/09/20/netspeed-indicator.png)
 
 ## DEB file
-A .deb file is available [here](deploy/netspeed-indicator_1.0_amd64.deb)
+A .deb file is available [here](deploy/netspeed-indicator_1.0.1_amd64.deb)
 
 If you install the deb file, you will find the program in /opt/netspeed-indicator
 Also it will copy a softlink of run.sh in /usr/bin directory.
@@ -22,3 +22,11 @@ I'll be very happy if you download it,use it, check the python code and extend i
 
 
 Cheers!
+
+
+
+##Changelog:
+
+1.0.1 - [Fix](issues/2), git issue #2, Dirty fix to the nethogs code, skips the device/interface if it is like 'mon.*'. (Now nethogs works with ap-hotspot running.)
+-------------------
+1.0 - First release
